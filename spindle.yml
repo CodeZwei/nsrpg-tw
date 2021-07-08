@@ -1,0 +1,9 @@
+id: "nsrpg-tw"
+version: "0.1.0"
+title: "nsrpg-tw"
+format: "sugarcube-2.31.1"
+description: "RPG Engine for a procedurally generated Fantasy setting with NSFW elements. Built in Twine."
+header:
+  - "header/*"
+deps:
+  - "src/*"

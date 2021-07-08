@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/brisberg/cruft-spindle-project",
+  "commit": "f60febc7482a93acb31f1a9499438d136ecc4197",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Code Zwei",
+      "email": "brandonzwei@gmail.com",
+      "github_username": "CodeZwei",
+      "title": "nsrpg-tw",
+      "subtitle": "NSFW Fantasy RPG",
+      "repo_slug": "nsrpg-tw",
+      "description": "RPG Engine for a procedurally generated Fantasy setting with NSFW elements. Built in Twine.",
+      "_template": "https://github.com/brisberg/cruft-spindle-project"
+    }
+  },
+  "directory": null
+}

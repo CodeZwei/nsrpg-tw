@@ -1,0 +1,15 @@
+{
+  "name": "nsrpg-tw",
+  "version": "0.1.0",
+  "description": "RPG Engine for a procedurally generated Fantasy setting with NSFW elements. Built in Twine.",
+  "scripts": {
+    "build": "yarn run spindle",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Code Zwei",
+  "license": "MIT",
+  "devDependencies": {
+    "@brisberg/spindle": "^0.2.2",
+    "@types/twine-sugarcube": "^2.33.1"
+  }
+}
