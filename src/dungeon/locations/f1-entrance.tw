@@ -1,0 +1,10 @@
+:: Floor 1 Entrance
+
+You find a well furnished store and living room. It is complete with torches, wooden tables and benches.
+Wooden casks of wine and beer are stacked along the walls.
+
+<<if $elf_defeated is not true>>
+There is an [[Elf Woman|Elf Female Encounter]] here who eyes you hungrily.
+<</if>>
+
+There is a [[door|Floor 1 Cellar]] leading to a storage cellar.

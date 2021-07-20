@@ -1,4 +1,8 @@
 :: Start
-Hello World from Twine on Spindle!
+Welcome to NS RPG build in Twine on Spindle!
 
-[[Start|Town Square]]
+Select a game mode:
+
+[[Overworld Story|Town Square]]
+
+[[Dungeon|Dungeon Entrance]]

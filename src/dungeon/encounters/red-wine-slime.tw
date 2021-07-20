@@ -1,0 +1,69 @@
+:: Red Wine Slime Encounter [nobr]
+
+<<set $partner_name to "Red Slime">>
+
+<<include "Red Wine Slime Neutral">>
+
+:: Red Wine Slime Neutral
+
+The Red Wine Slime Girl sits in a puddle opposite you, awaiting your move.
+
+You may:
+<<linkreplace "Kiss her Lips">>
+  <<include "Red Wine Slime Kiss">>
+<</linkreplace>>
+<<linkreplace "Fuck her mouth">>
+  <<include "Red Wine Slime Suck Cock">>
+<</linkreplace>>
+<<linkreplace "Fuck her pussy">>
+  <<include "Red Wine Slime Pussy">>
+<</linkreplace>>
+
+:: Red Wine Slime Kiss
+
+You move forward and press your body into the slime. She gives way a bit, but is viscous enough to support your leaning.
+You bring your lips up to her shimmering face and firmly kiss her lips. She tastes sweet, like a red dessert wine.
+
+She kisses you back, you feel her slimy tongue wriggle it's way into your mouth to tangle with yours.
+A rich, sweet taste feels your mouth and nostrils.
+
+:: Red Wine Slime Suck Cock
+
+You stand over the slime with your cock out. She just stares at you, unsure what to do with it.
+You grab as best you can her head, and arange the tip of your penis to the wet opening of her mouth.
+
+Once aligned, you lean forward and press your cock through her slimy lips and into the depths of her throat.
+She gives away easily, but you feel the strange sensation of folds and slippery slime drag along your penis as it passes.
+With each thrust the sensation is different, as her fluid internal structure changes to accomodate you.
+
+You start to pant as your pleasure rises.
+
+:: Red Wine Slime Pussy
+
+You lean all the way forward into the puddle, and move your penis towards what appears to be her pelvis.
+She spreads and reconstitutes herself to align with you.
+
+You see her shimmering surface shift and then the distinctive shape of two labia appear in her shifting mass.
+You take the opportunity and drive your penis all the way between her folds and into her core.
+
+She tilts her head back in pleasure at the sensation.
+You feel slick folds and slime pass over your penis as you penetrate the slime.
+With each thrust, the sensations are different. Each time focusing on a different side, and changing in lubrication and pressure.
+
+As the slime girl's pleasure starts to rise, her internal pressure starts to build. You feel the slick walls around your penis squeeze it harder.
+You look down through the slime girls breasts and torso to clearly see your penis reaching through her pelvis towards her stomach.
+
+After a few final thrusts, the pressure is too much for you and you climax inside the slime.
+You see swirling strands of white semen erupt from your penis suspended in the slime.
+She seems to climax as well and suddenly becomes slightly warm to the touch.
+Your ejaculation feels even better inside the warm, slick pressue of the slime girl.
+
+After a few moments of pumping semen into the slime girl, you both relax and subside.
+She appears in bliss and literally flattens into a puddle on the floor.
+You can still see the strands of your semen gently swirling within the red pool.
+
+You notice after she liquifies that there is a hidden trapdoor behind the barrel she came from.
+
+<<set $slime_defeated to true>>
+
+[[Continue|Floor 1 Cellar]]

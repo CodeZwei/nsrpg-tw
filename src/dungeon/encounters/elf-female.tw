@@ -1,0 +1,51 @@
+:: Elf Female Encounter [nobr]
+
+<<set $partner_name to "Theowyn">>
+<<set $partner_lick to "Elf Female Lick Tits">>
+<<set $partner_suck to "Elf Female Suck Cock">>
+<<set $partner_throat to "Elf Female Throat">>
+
+<<include "Elf Female Neutral">>
+
+:: Elf Female Neutral
+
+Theowyn sits at the table across from you, staring at you with hungry eyes.
+
+She calmly strokes her erect cock between her legs as she waits for you to make a move.
+
+You may:
+<<linkreplace "Lick her Tits">>
+  <<include "Elf Female Lick Tits">>
+<</linkreplace>>
+<<linkreplace "Suck her cock">>
+  <<include "Elf Female Suck Cock">>
+<</linkreplace>>
+<<linkreplace "Fuck her throat">>
+  <<include "Elf Female Throat">>
+<</linkreplace>>
+
+:: Elf Female Lick Tits
+
+You reach an arm behind the elf's back and pull her valuptuous chest towards you.
+She giggles with excitment and shakes her breasts in your face.
+
+You bury your face between them and start to lick them all over, enjoying the warm squishy feeling under your tongue.
+
+:: Elf Female Suck Cock
+
+You get on yours knees and reach out your tongue to the elf's cock.
+You take it in your mouth and run your tongue under the tip.
+
+She moans with pleasure and places a hand on your head, guiding you as you bob your head on her cock.
+
+:: Elf Female Throat
+
+You grab her head and pull her down onto your cock. You feel her warm throat squeeze the tip of your cock.
+You pull her head up and down to throat your cock.
+
+Quickly the pleasure is overwhelming and you arch in orgasm and shoot several spurts of semen down the Elf's throat.
+Her eyes roll back in pleasure at the experience.
+
+<<set $elf_defeated to true>>
+
+[[Continue|Floor 1 Entrance]]

@@ -1,0 +1,13 @@
+:: Floor 1 Cellar
+
+You find the storage cellar darker and a bit colder than the rest of the dungeon.
+Stacks of crates of bottled wine and spirits line the walls.
+
+One of the barrels has been cracked open an a sweet smelling red wine has leaked into a pool below it.
+However, as you approach the Red Wine seems to stir.
+
+<<if $slime_defeated is not true>>
+The pool coaleces into a [[Red Wine Slime|Red Wine Slime Encounter]], taking on a translucent female form.
+<<else>>
+There is a [[Trap Door|Floor 2 Entrance]] behind the broken barrel.
+<</if>>
